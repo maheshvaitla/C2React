@@ -14,3 +14,20 @@ form > #submit {
   width: 100px;
   height: 40px;
 }
+
+#flex {
+  display: flex;
+}
+
+#insidecard {
+  background-color: rgb(201, 84, 123);
+  width: 300px;
+  height: 150px;
+}
+#moreinfo {
+  margin-top: 30px;
+  margin-left: 400px;
+  text-align: center;
+  background-color: lavenderblush;
+  width: 500px;
+}

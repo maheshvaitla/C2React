@@ -1,0 +1,20 @@
+{
+  "recipe": [
+    {
+      "title": "chicken biryani",
+      "ingredients": "chicken,rice",
+      "timetocook": "10",
+      "instructions": "make biryani full spicy",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "paneer curry",
+      "ingredients": "panner,mirchi,salt",
+      "timetocook": "11",
+      "instructions": "make delicious paneer",
+      "status": false,
+      "id": 2
+    }
+  ]
+}
