@@ -1,0 +1,16 @@
+form {
+  background-color: aquamarine;
+  width: 300px;
+  height: 330px;
+  margin: 5px 10px;
+}
+#formdiv > h1 {
+  text-decoration: underline black;
+  margin: 10px;
+}
+form > #submit {
+  background-color: green;
+  border: green;
+  width: 100px;
+  height: 40px;
+}
